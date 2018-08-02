@@ -1,0 +1,53 @@
+
+[Rabu, 01 - 08 - 2018 | 09:33:26] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[Rabu, 01 - 08 - 2018 | 11:38:45] sendFooter() missing 1 required positional argument: 'agentLink'
+[Rabu, 01 - 08 - 2018 | 11:38:53] sendFooter() missing 1 required positional argument: 'agentLink'
+[Rabu, 01 - 08 - 2018 | 11:41:23] sendFooter() missing 1 required positional argument: 'agentLink'
+[Rabu, 01 - 08 - 2018 | 15:23:41] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 15:30:38] Upload image failure.
+[Rabu, 01 - 08 - 2018 | 15:32:58] Upload image failure.
+[Rabu, 01 - 08 - 2018 | 17:15:52] 'skey'
+[Rabu, 01 - 08 - 2018 | 17:16:12] 'skey'
+[Rabu, 01 - 08 - 2018 | 17:38:48] local variable 'ret_' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 18:43:08] Download object failure.
+[Rabu, 01 - 08 - 2018 | 18:45:33] TalkException(code=6, reason='Invalid length of displayName: ...DEDE SHOP CENTRE™...', parameterMap=None)
+[Rabu, 01 - 08 - 2018 | 18:49:41] TalkException(code=6, reason="Invalid length of displayName: D'SHOP GIFTER ASISTANT", parameterMap=None)
+[Rabu, 01 - 08 - 2018 | 18:50:16] TalkException(code=6, reason="Invalid length of displayName: D'SHOP GIFTER ASISTANT", parameterMap=None)
+[Rabu, 01 - 08 - 2018 | 23:15:28] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:30] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:30] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:30] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:31] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:32] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:32] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:33] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:34] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:35] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:36] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:38] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:15:39] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:28:20] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:28:21] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:30:07] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:30:10] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:30:32] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:30:37] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:30:56] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:31:01] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:31:39] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:32:45] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:33:19] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:33:35] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:46:46] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:51:05] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:51:28] TalkException(code=6, reason='Invalid length of displayName: ', parameterMap=None)
+[Rabu, 01 - 08 - 2018 | 23:51:40] TalkException(code=6, reason='Invalid length of displayName: ', parameterMap=None)
+[Rabu, 01 - 08 - 2018 | 23:52:20] local variable 'image' referenced before assignment
+[Rabu, 01 - 08 - 2018 | 23:52:23] local variable 'image' referenced before assignment
+[Kamis, 02 - 08 - 2018 | 00:55:52] HTTPSConnectionPool(host='botfamily.faith', port=443): Max retries exceeded with url: /api/quotes/?apikey=beta (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb5af79b0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[Kamis, 02 - 08 - 2018 | 00:56:47] HTTPSConnectionPool(host='botfamily.faith', port=443): Max retries exceeded with url: /api/quotes/?apikey=beta (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb5b039d0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[Kamis, 02 - 08 - 2018 | 00:58:40] Upload image failure.
+[Kamis, 02 - 08 - 2018 | 01:01:30] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[Kamis, 02 - 08 - 2018 | 01:08:05] HTTPSConnectionPool(host='www.musixmatch.com', port=443): Max retries exceeded with url: /search/Krisdayanti (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb5aa00f0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[Kamis, 02 - 08 - 2018 | 08:39:54] Upload image failure.
+[Kamis, 02 - 08 - 2018 | 09:03:23] local variable 'image' referenced before assignment
