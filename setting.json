@@ -1,0 +1,39 @@
+{
+    "autoAdd": false,
+    "autoAddMessage": "Hai kk @!,,,makasih sudah menambahkan aim sbg teman kk...\nSilahkan ketik Menu untuk bantuan\n\nDEDE SHOP CENTRE\nMELAYANI :\n  > Aktivasi VIP Smule 1th\n  > Tikel/Stiker Resmi\n  > Line Selfbot Only\n  > Line Selfbot Protect\n  > Line Auto Protect Bot\n  > Aplikasi Cracked (Pro/Premium)\n\nContact Person :\n  > ID LINE : _dede__\n  > WA        : +6281333833838",
+    "autoJoinMessage": "Kk @!\nMakasih ya sudah invite aim ke room ini...\nSilahkan ketik Menu untuk bantuan\n\nDEDE SHOP CENTRE\nMELAYANI :\n  > Aktivasi VIP Smule 1th\n  > Tikel/Stiker Resmi\n  > Line Selfbot Only\n  > Line Selfbot Protect\n  > Line Auto Protect Bot\n  > Aplikasi Cracked (Pro/Premium)\n\nContact Person :\n  > ID LINE : _dede__\n  > WA        : +6281333833838",
+    "autoJoin": false,
+    "autoResponMessage": "Oitttt,,,aim hadir kk @!\nAda apa ya,,,tadi koq tag aim di room",
+    "autoJoinTicket": false,
+    "autoRead": false,
+    "autoRespon": false,
+    "checkContact": false,
+    "checkPost": true,
+    "checkSticker": false,
+    "detectUnsend": true,
+    "protect": true,
+    "qrprotect": true,
+    "inviteprotect": true,
+    "cancelprotect": true,
+    "joinlink": false,
+    "lang": "JP",
+    "detectMention": false,
+    "autoLeave": false,
+    "wblack": false,
+    "wblacklist": false,
+    "dblack": false,
+    "commentBlack": false,
+    "blacklist": false,
+    "keyCommand": "",
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "",
+        "displayName": "",
+        "pictureStatus": "",
+        "statusMessage": ""
+    },
+    "setKey": false
+}
