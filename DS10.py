@@ -2372,11 +2372,11 @@ def clientBot(op):
 								ki3.sendMessage(to, "➧ Pro 3 On")
 								ki4.sendMessage(to, "➧ Pro 4 On")
 								ki5.sendMessage(to, "➧ Pro 5 On")
-								ki6.sendMessage(to, "➧ Pro 1 On")
-								ki7.sendMessage(to, "➧ Pro 2 On")
-								ki8.sendMessage(to, "➧ Pro 3 On")
-								ki9.sendMessage(to, "➧ Pro 4 On")
-								ki10.sendMessage(to, "➧ Pro 5 On")
+								ki6.sendMessage(to, "➧ Pro 6 On")
+								ki7.sendMessage(to, "➧ Pro 7 On")
+								ki8.sendMessage(to, "➧ Pro 8 On")
+								ki9.sendMessage(to, "➧ Pro 9 On")
+								ki10.sendMessage(to, "➧ Pro 10 On")
 								ki1.sendMessage(to, "➧All Dots Auto Protect Bot On")
 						if cmd == "clearban":
 							if msg._from in admin:
