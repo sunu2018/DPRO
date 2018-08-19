@@ -9,78 +9,78 @@ import ast, codecs, json, os, pytz, re, random, requests, sys, time, urllib.pars
 
 listApp = ["CHROMEOS", "DESKTOPWIN", "DESKTOPMAC", "IOSIPAD", "WIN10"]
 print ("===============[PROTECT BOT LOGIN START]===============\n")
-client = LINE("EvKI2hph6Dm3hQwRL2Z7.RdVL6g14eUJmkkAJeVuNDW./Ud9K1mBGmIKnoJadh67subnkOm3n5UfDv3/WlXj9go=")
+client = LINE()
 print ("===============[PRO LEADER LOGIN SUKSES]===============\n")
-ki1 = LINE("EumxSC7ZteN3Ei1V2plc.I+f5KCw2GCuJ/7FHHsLJla.v9TP6b/rETzljntC+mea9AVDYXkVGrnh2mu+O0w52Dk=")
-print ("===============[PRO 1 LOGIN SUKSES]===============\n")
-ki2 = LINE("EuhNF6GX9o6hn4dEVkt9.V1xPyy4UYKujjpNoRrWLYq.KUVHKHQ7t2oziDVljUWc341WdcLPbcozOC1m0DVmMIw=")
-print ("===============[PRO 2 LOGIN SUKSES]===============\n")
-ki3 = LINE("EuhNF6GX9o6hn4dEVkt9.V1xPyy4UYKujjpNoRrWLYq.KUVHKHQ7t2oziDVljUWc341WdcLPbcozOC1m0DVmMIw=")
-print ("===============[PRO 3 LOGIN SUKSES]===============\n")
-ki4 = LINE("EuEIQBN2YnZspzGdEk04.r+FX81E30Cr0z9elsejUHa.Q/P/mngFw6fRLjf2buxPG6tFzcrE1FAovW0/cc5EU1U=")
-print ("===============[PRO 4 LOGIN SUKSES]===============\n")
-ki5 = LINE("EuEIQBN2YnZspzGdEk04.r+FX81E30Cr0z9elsejUHa.Q/P/mngFw6fRLjf2buxPG6tFzcrE1FAovW0/cc5EU1U=")
-print ("===============[PRO 5 LOGIN SUKSES]===============\n")
-dots = LINE("Evd7eFac24Fug2LDJT8e.1MIYF9X8Puov4JB2doZgxG.vdyJ/iTN3qwpAS6L0wD1pdRWgntunqUjALjgbJF0J9M=")
-print ("==============[PUBLIC BOT LOGIN SUKSES]==============\n")
-dd1 = LINE("EvLQAZnWNdUOl2qeWrY5.m2ME01d3Cv+owt3u6kxuDq.B+cLPk/1aXTUJIj4p6Hu9K/0zuSbRrQsCBhSOUVgAiI=")
-print ("===============[LEADER 1 LOGIN SUKSES]===============\n")
-dd2 = LINE("EvKI2hph6Dm3hQwRL2Z7.RdVL6g14eUJmkkAJeVuNDW./Ud9K1mBGmIKnoJadh67subnkOm3n5UfDv3/WlXj9go=")
-print ("===============[LEADER 2 LOGIN SUKSES]===============\n")
-dd3 = LINE("EvS5zNMSjEfM3op02Rl0./WYBHiXdwCT/9lBWiC0u4a.IJvuaaNPgYVrtXeVPDB7uuiyS3QacaPll1dWGmOfkT8=")
-print ("===============[LEADER 3 LOGIN SUKSES]===============\n\n======================================\n        AUTO PROTECT BOT LINE\n            CREATOR : DEDE\n           DEDE SHOP CENTRE\n======================================\n\n[DOTS AUTO PROTECT BOT START]")
+#ki1 = LINE("EumxSC7ZteN3Ei1V2plc.I+f5KCw2GCuJ/7FHHsLJla.v9TP6b/rETzljntC+mea9AVDYXkVGrnh2mu+O0w52Dk=")
+#print ("===============[PRO 1 LOGIN SUKSES]===============\n")
+#ki2 = LINE("EuhNF6GX9o6hn4dEVkt9.V1xPyy4UYKujjpNoRrWLYq.KUVHKHQ7t2oziDVljUWc341WdcLPbcozOC1m0DVmMIw=")
+#print ("===============[PRO 2 LOGIN SUKSES]===============\n")
+#ki3 = LINE("EuhNF6GX9o6hn4dEVkt9.V1xPyy4UYKujjpNoRrWLYq.KUVHKHQ7t2oziDVljUWc341WdcLPbcozOC1m0DVmMIw=")
+#print ("===============[PRO 3 LOGIN SUKSES]===============\n")
+#ki4 = LINE("EuEIQBN2YnZspzGdEk04.r+FX81E30Cr0z9elsejUHa.Q/P/mngFw6fRLjf2buxPG6tFzcrE1FAovW0/cc5EU1U=")
+#print ("===============[PRO 4 LOGIN SUKSES]===============\n")
+#ki5 = LINE("EuEIQBN2YnZspzGdEk04.r+FX81E30Cr0z9elsejUHa.Q/P/mngFw6fRLjf2buxPG6tFzcrE1FAovW0/cc5EU1U=")
+#print ("===============[PRO 5 LOGIN SUKSES]===============\n")
+#dots = LINE("Evd7eFac24Fug2LDJT8e.1MIYF9X8Puov4JB2doZgxG.vdyJ/iTN3qwpAS6L0wD1pdRWgntunqUjALjgbJF0J9M=")
+#print ("==============[PUBLIC BOT LOGIN SUKSES]==============\n")
+#dd1 = LINE("EvLQAZnWNdUOl2qeWrY5.m2ME01d3Cv+owt3u6kxuDq.B+cLPk/1aXTUJIj4p6Hu9K/0zuSbRrQsCBhSOUVgAiI=")
+#print ("===============[LEADER 1 LOGIN SUKSES]===============\n")
+#dd2 = LINE("EvKI2hph6Dm3hQwRL2Z7.RdVL6g14eUJmkkAJeVuNDW./Ud9K1mBGmIKnoJadh67subnkOm3n5UfDv3/WlXj9go=")
+#print ("===============[LEADER 2 LOGIN SUKSES]===============\n")
+#dd3 = LINE("EvS5zNMSjEfM3op02Rl0./WYBHiXdwCT/9lBWiC0u4a.IJvuaaNPgYVrtXeVPDB7uuiyS3QacaPll1dWGmOfkT8=")
+#print ("===============[LEADER 3 LOGIN SUKSES]===============\n\n======================================\n        AUTO PROTECT BOT LINE\n            CREATOR : DEDE\n           DEDE SHOP CENTRE\n======================================\n\n[DOTS AUTO PROTECT BOT START]")
 
 
-KAC = [client,dots,ki1,ki2,ki3,ki4,ki5]
-GUE = [ki1,ki2,ki3,ki4,ki5]
+KAC = [client]
+#GUE = [ki1,ki2,ki3,ki4,ki5]
 clientMID = client.profile.mid
-dotsMID = dots.profile.mid
-ki1MID = ki1.profile.mid
-ki2MID = ki2.profile.mid
-ki3MID = ki3.profile.mid
-ki4MID = ki4.profile.mid
-ki5MID = ki5.profile.mid
-AMID = dd1.profile.mid
-BMID = dd2.profile.mid
-CMID = dd3.profile.mid
+#dotsMID = dots.profile.mid
+#ki1MID = ki1.profile.mid
+#ki2MID = ki2.profile.mid
+#ki3MID = ki3.profile.mid
+#ki4MID = ki4.profile.mid
+#ki5MID = ki5.profile.mid
+#AMID = dd1.profile.mid
+#BMID = dd2.profile.mid
+#CMID = dd3.profile.mid
 
 Bot =[clientMID]
-Bots = [clientMID,dotsMID,ki1MID,ki2MID,ki3MID,ki4MID,ki5MID,AMID,BMID,CMID]
+#Bots = [clientMID,dotsMID,ki1MID,ki2MID,ki3MID,ki4MID,ki5MID,AMID,BMID,CMID]
 creator = ["u33699ed350f7715fce593dd4e8a5d475"]
 Owner = ["u33699ed350f7715fce593dd4e8a5d475","uac3be5e86d7812e8cc28a6a312f52777"]
 admin = ["u33699ed350f7715fce593dd4e8a5d475","uac3be5e86d7812e8cc28a6a312f52777","ufb0c9b848c4359cb7ef4b6f021cd14e0"]
 target = []
 
 clientProfile = client.getProfile()
-dotsProfile = dots.getProfile()
-ki1Profile = ki1.getProfile()
-ki2Profile = ki2.getProfile()
-ki3Profile = ki3.getProfile()
-ki4Profile = ki4.getProfile()
-ki5Profile = ki5.getProfile()
+#dotsProfile = dots.getProfile()
+#ki1Profile = ki1.getProfile()
+#ki2Profile = ki2.getProfile()
+#ki3Profile = ki3.getProfile()
+#ki4Profile = ki4.getProfile()
+#ki5Profile = ki5.getProfile()
 
 clientSettings = client.getSettings()
-dotsSettings = dots.getSettings()
-ki1Settings = ki1.getSettings()
-ki2Settings = ki2.getSettings()
-ki3Settings = ki3.getSettings()
-ki4Settings = ki4.getSettings()
-ki5Settings = ki5.getSettings()
+#dotsSettings = dots.getSettings()
+#ki1Settings = ki1.getSettings()
+#ki2Settings = ki2.getSettings()
+#ki3Settings = ki3.getSettings()
+#ki4Settings = ki4.getSettings()
+#ki5Settings = ki5.getSettings()
 
 oepoll = OEPoll(client)
-oepollx = OEPoll(dots)
-oepoll1 = OEPoll(ki1)
-oepoll2 = OEPoll(ki2)
-oepoll3 = OEPoll(ki3)
-oepoll4 = OEPoll(ki4)
-oepoll5 = OEPoll(ki5)
+#oepollx = OEPoll(dots)
+#oepoll1 = OEPoll(ki1)
+#oepoll2 = OEPoll(ki2)
+#oepoll3 = OEPoll(ki3)
+#oepoll4 = OEPoll(ki4)
+#oepoll5 = OEPoll(ki5)
 
 
-responsename1 = ki1.getProfile().displayName
-responsename2 = ki2.getProfile().displayName
-responsename3 = ki3.getProfile().displayName
-responsename4 = ki4.getProfile().displayName
-responsename5 = ki5.getProfile().displayName
+#responsename1 = ki1.getProfile().displayName
+#responsename2 = ki2.getProfile().displayName
+#responsename3 = ki3.getProfile().displayName
+#responsename4 = ki4.getProfile().displayName
+#responsename5 = ki5.getProfile().displayName
 
 languageOpen = codecs.open("language.json","r","utf-8")
 readOpen = codecs.open("read.json","r","utf-8")
